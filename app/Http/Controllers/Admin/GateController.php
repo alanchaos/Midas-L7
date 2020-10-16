@@ -8,7 +8,6 @@ use App\Http\Requests\StoreGateRequest;
 use App\Http\Requests\UpdateGateRequest;
 use App\Models\Gate;
 use App\Models\Location;
-use Gate;
 use Illuminate\Http\Request;
 use Symfony\Component\HttpFoundation\Response;
 use Yajra\DataTables\Facades\DataTables;
