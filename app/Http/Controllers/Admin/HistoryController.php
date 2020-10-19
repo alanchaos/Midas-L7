@@ -9,7 +9,6 @@ use App\Http\Requests\UpdateHistoryRequest;
 use App\Models\Gate;
 use App\Models\History;
 use App\Models\User;
-use Gate;
 use Illuminate\Http\Request;
 use Symfony\Component\HttpFoundation\Response;
 use Yajra\DataTables\Facades\DataTables;
